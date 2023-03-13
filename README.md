@@ -1,4 +1,7 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=1Mike21)](https://github.com/ryo-ma/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1Mike21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1Mike21)](https://git.io/streak-stats)
+
 
 <!--
 **1Mike21/1Mike21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
